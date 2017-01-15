@@ -1,0 +1,13 @@
+                                 hi git
+
+
+public class HelloUbuntu {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hello Ubuntu");
+
+	}
+
+}
+
